@@ -1,7 +1,7 @@
 # AndroidStandardDevelop
 青蓝成长Android开发规范
 
-本文转载于https://github.com/Blankj/AndroidStandardDevelop，为了方便管理，整体拷贝了过来
+本文转载于https://github.com/Blankj/AndroidStandardDevelop， 为了方便管理，整体拷贝了过来
 
 ## 摘要
 
